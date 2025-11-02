@@ -35,58 +35,16 @@ I build end-to-end systems that connect **hardware** to **operator-grade softwar
 
 ### 🚀 Featured Projects
 
-<!-- Put thumbnails in this repo under /media/*.png or use raw links from each project -->
-<p align="center">
-  <a href="https://github.com/NAL1618/Trains_Fall2425">
-    <img src="media/trains_cover.png" alt="Train Control System" width="360"><br/>
-    <sub>Train Control System — Python · PyQt5 · Threads · Safety</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/NAL1618/UART-Bridge">
-    <img src="media/uart_cover.png" alt="UART Bridge RPi↔STM32" width="360"><br/>
-    <sub>UART Bridge — STM32 · HAL · Linux Serial</sub>
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/NAL1618/Poker-ML-Live">
-    <img src="media/poker_cover.png" alt="Poker Live Inference" width="360"><br/>
-    <sub>Live Inference — PyTorch · Multiprocessing · Joblib</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/NAL1618/Pipeline-GUI">
-    <img src="media/pipeline_cover.png" alt="Pipeline Sensor GUI" width="360"><br/>
-    <sub>Pipeline Sensor GUI — Tkinter · Matplotlib · SciPy</sub>
-  </a>
-</p>
-
-> Tip: Replace `media/*.png` with your own screenshots or GIFs (keep them ~320–400px wide). If your repos are private, keep thumbnails here and link to public mirrors or a demo video.
-
----
 
 ### 🧩 What I’m good at
 
-- **Real-time control & safety**: brake/accel envelopes, authority limits, latched EB/SB, failure injection.
-- **Embedded comms**: UART bring-up on STM32 + Raspberry Pi (`stty`, HAL, ST-Link, CMake).
-- **Operator UIs**: PyQt5 cab panels/test benches with responsive signal/slot wiring.
-- **ML tooling**: deterministic feature pipelines, live inference, artifacted scalers/models.
 
----
-
-### 📈 Quick stats
-
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAL1618&show_icons=true&theme=gruvbox)
-
-<!-- Optional streaks
-![GitHub Streak](https://streak-stats.demolab.com?user=NAL1618&theme=gruvbox&border_radius=4.5)
--->
-
----
 
 ### 📫 Contact
 
-- **Email:** nick@example.com  
-- **LinkedIn:** https://www.linkedin.com/in/NAL1618/  
+- **Email:** nicklavine@icloud.com  
+- **LinkedIn:** https://www.linkedin.com/in/nicholas-lavine-84b54a290/ 
 - **Resume:** https://example.com/Nick_LaVine_Resume.pdf
 
 <!--
