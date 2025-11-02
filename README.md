@@ -49,12 +49,6 @@ I build end-to-end systems that connect **hardware** to **operator-grade softwar
 
 
 
-### 📫 Contact
-
-- **Email:** nicklavine@icloud.com  
-- **LinkedIn:** https://www.linkedin.com/in/nicholas-lavine-84b54a290/ 
-- **Resume:** https://example.com/Nick_LaVine_Resume.pdf
-
 <!--
 Notes for me:
 - Thumbnails live in /media to avoid hotlinking private repos.
