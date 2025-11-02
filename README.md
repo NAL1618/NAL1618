@@ -2,6 +2,14 @@
 
 **`Embedded & Systems Engineer (Python/C++ · Real-Time · UI/UX for Operators)`**
 
+
+## 📫 Contact & Resume
+Email: [nicklavine@icloud.com](mailto:nicklavine@icloud.com) ·
+LinkedIn: [https://www.linkedin.com/in/nicholas-lavine-84b54a290/](https://www.linkedin.com/in/nicholas-lavine-84b54a290/) ·
+Resume: [media/Resume_2025.pdf](media/Resume_2025.pdf)
+
+
+
 I build end-to-end systems that connect **hardware** to **operator-grade software**: UART/STM32 bring-ups, real-time control loops, safety-critical UIs (PyQt5), and ML tools with clean, reproducible pipelines. Current work includes a **modular train control simulator** (CTC/wayside/track/train) with a PyQt5 frontend and threaded backend, plus embedded comms on Raspberry Pi ↔ STM32.
 
 <p align="left">
