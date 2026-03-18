@@ -1,11 +1,20 @@
-# 👋 Nick LaVine
+# Nick LaVine
 
-**`Embedded & Systems Engineer (Python/C++ · Real-Time · UI/UX for Operators)`**
+**`Computer Engineer`**
 
 ## 📫 Contact & Resume
-[<img src="media/icons/email.svg" alt="Email" width="26">](mailto:nicklavine@icloud.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="media/icons/linkedin.svg" alt="LinkedIn" width="26">](https://www.linkedin.com/in/nicholas-lavine-84b54a290/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="media/icons/resume.svg" alt="Resume" width="26">](media/Resume_2025.pdf)
+
+<p align="center">
+  <a href="mailto:nicklavine@icloud.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nicholas-lavine-84b54a290/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="media/Resume_2025.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-lightgrey?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+  </a>
+</p>
 
 I build production-minded systems that connect **hardware** to **operator-ready software**: embedded comms on STM32/Raspberry Pi, real-time control and data pipelines in Python, and UIs that make complex tools usable. Recently: ML/CV for industrial pipeline defect detection with a Python GUI that ingests `.csv/.mat` and renders live 2-D/3-D views; and embedded integrations that push reliable **SPI/UART** data between custom optics and the Bristlemouth dev kit. :contentReference[oaicite:1]{index=1}
 
