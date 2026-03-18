@@ -93,7 +93,7 @@ Hello! My name is Nick, and I am a computer engineer with a Bachelor of Science 
       <sub>Search engine built on a Wikipedia-based document database with ranking, retrieval, and an AI response layer, served through a Flask front end.</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://github.com/NAL1618/VHDL-Pipelined-CPU">
+      <a href="https://github.com/NAL1618/32-Bit-MIPS-CPU">
         <img src="media/vhdl_cpu_cover.png" alt="Custom Pipelined CPU in VHDL" width="250"><br/>
         <sub><b>Custom Pipelined CPU (VHDL)</b></sub>
       </a>
