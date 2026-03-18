@@ -2,7 +2,7 @@
 
 **`Computer Engineer`**
 
-## 📫 Contact & Resume
+## Contact & Resume
 
 <p align="center">
   <a href="mailto:nicklavine@icloud.com">
@@ -16,7 +16,7 @@
   </a>
 </p>
 
-I build production-minded systems that connect **hardware** to **operator-ready software**: embedded comms on STM32/Raspberry Pi, real-time control and data pipelines in Python, and UIs that make complex tools usable. Recently: ML/CV for industrial pipeline defect detection with a Python GUI that ingests `.csv/.mat` and renders live 2-D/3-D views; and embedded integrations that push reliable **SPI/UART** data between custom optics and the Bristlemouth dev kit. :contentReference[oaicite:1]{index=1}
+Hello! My name is Nick, and I am a computer engineer with a Bachelor of Science from the University of Pittsburgh. I have experience across several areas of computing, with a strong focus on embedded systems and machine learning. Below are several projects that highlight my technical background and interests across hardware and software.
 
 <p align="left">
   <a href="https://github.com/NAL1618?tab=followers">
@@ -29,7 +29,7 @@ I build production-minded systems that connect **hardware** to **operator-ready 
 
 ---
 
-### 🔧 Tech I Use
+### Tech I Use
 
 <p align="center">
   <img alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -53,7 +53,7 @@ I build production-minded systems that connect **hardware** to **operator-ready 
 - **Development Tools:** Git, GitHub, Linux, MATLAB, VS Code, STM32CubeIDE, debugging, testing, hardware/software integration   VHDL/Vivado; custom pipelined CPU & FSM control.
 
 
-### 🚀 Featured Projects
+### Featured Projects
 
 > Thumbnails live in `/media`. Swap links to public repos or demo videos as you publish them.
 
@@ -113,24 +113,3 @@ I build production-minded systems that connect **hardware** to **operator-ready 
 </table>
 
 ---
-
-### 🧩 What I’m good at
-
-- **Embedded integration:** bring-up and debug of UART/SPI paths between MCUs and Linux hosts; durable data links for field conditions. :contentReference[oaicite:6]{index=6}
-- **Realtime ML + UX:** turn raw signals into actionable displays (2-D/3-D, live plots) and wire models for on-demand inference inside desktop apps. :contentReference[oaicite:7]{index=7}
-- **Cross-platform delivery:** Kotlin Multiplatform shared logic, Compose on Android, Swift/SwiftUI on iOS; package as XCFramework. :contentReference[oaicite:8]{index=8}
-- **Digital design:** VHDL with FSM control and datapath integration; methodical test/iterate approach. :contentReference[oaicite:9]{index=9}
-
-<!--
-Notes for me:
-- Thumbnails live in /media to avoid hotlinking private repos.
-- If a project must stay private, create a public mirror or a showcase repo with README + screenshots.
--->
-
-
-
-<!--
-Notes for me:
-- Thumbnails live in /media to avoid hotlinking private repos.
-- If a project must stay private, create a public mirror or a showcase repo with README + screenshots.
--->
