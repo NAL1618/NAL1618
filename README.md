@@ -45,17 +45,16 @@ Hello! My name is Nick, and I am a computer engineer with a Bachelor of Science 
   <img alt="Android" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
 </p>
 
-- **Languages:** Python, C++, C, Kotlin, Swift, SQL, Bash  
-- **Embedded & Hardware:** STM32, Arduino, Raspberry Pi, UART, SPI, I²C, GPIO, timers, interrupts, PWM, ADC  
-- **Computer Engineering:** VHDL, Vivado, FSMs, pipelined CPU design, datapath/control logic, digital system design  
-- **ML & Data Systems:** PyTorch, TensorFlow, NumPy, pandas, scikit-learn, signal processing, live inference workflows  
-- **Applications & Interfaces:** PyQt5, Flask, SwiftUI, Jetpack Compose  
-- **Development Tools:** Git, GitHub, Linux, MATLAB, VS Code, STM32CubeIDE, debugging, testing, hardware/software integration   VHDL/Vivado; custom pipelined CPU & FSM control.
+**Languages:** Python, C++, C, Kotlin, Swift, SQL, Bash  
+**Embedded & Hardware:** STM32, Arduino, Raspberry Pi, UART, SPI, I²C, GPIO, timers, interrupts, PWM, ADC  
+**Computer Engineering:** VHDL, Vivado, FSMs, pipelined CPU design, datapath/control logic, digital system design  
+**ML & Data Systems:** PyTorch, TensorFlow, NumPy, pandas, scikit-learn, signal processing, live inference workflows  
+**Applications & Interfaces:** PyQt5, Flask, SwiftUI, Jetpack Compose  
+**Development Tools:** Git, GitHub, Linux, MATLAB, VS Code, STM32CubeIDE, debugging, testing, hardware/software integration   VHDL/Vivado; custom pipelined CPU & FSM control.
 
 
 ### Featured Projects
 
-> Thumbnails live in `/media`. Swap links to public repos or demo videos as you publish them.
 
 <table align="center">
   <tr>
