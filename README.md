@@ -20,27 +20,28 @@ I build production-minded systems that connect **hardware** to **operator-ready 
 
 ---
 
-### 🔧 Tech I use
+### 🔧 Tech I Use
 
-<img align="left" alt="Python" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="C++" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="C" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="PyTorch" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-<img align="left" alt="Qt" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"/>
-<img align="left" alt="Linux" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Raspberry Pi" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
-<img align="left" alt="Git" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Matlab" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
-<img align="left" alt="Kotlin" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-<img align="left" alt="Android" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
+<p align="center">
+  <img alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="C++" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  <img alt="C" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img alt="PyTorch" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+  <img alt="Qt" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"/>
+  <img alt="Linux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img alt="Raspberry Pi" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
+  <img alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="MATLAB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
+  <img alt="Kotlin" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+  <img alt="Android" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
+</p>
 
-<br clear="all"/>
-
-
-- **Embedded/Edge:** STM32CubeIDE, ST-Link/Tag-Connect, HAL/LL; UART/SPI/I²C; GPIO/Timers; Raspberry Pi (Linux).
-- **ML & Data:** PyTorch/TensorFlow, numpy/pandas; GUI-integrated inference; real-time signal displays.
-- **Apps & UI:** PyQt5, Swift/SwiftUI, Kotlin Multiplatform + Jetpack Compose; reproducible build/deploy.
-- **Hardware/FPGA:** VHDL/Vivado; custom pipelined CPU & FSM control.
+- **Languages:** Python, C++, C, Kotlin, Swift, SQL, Bash  
+- **Embedded & Hardware:** STM32, Arduino, Raspberry Pi, UART, SPI, I²C, GPIO, timers, interrupts, PWM, ADC  
+- **Computer Engineering:** VHDL, Vivado, FSMs, pipelined CPU design, datapath/control logic, digital system design  
+- **ML & Data Systems:** PyTorch, TensorFlow, NumPy, pandas, scikit-learn, signal processing, live inference workflows  
+- **Applications & Interfaces:** PyQt5, Flask, SwiftUI, Jetpack Compose  
+- **Development Tools:** Git, GitHub, Linux, MATLAB, VS Code, STM32CubeIDE, debugging, testing, hardware/software integration   VHDL/Vivado; custom pipelined CPU & FSM control.
 
 
 ### 🚀 Featured Projects
