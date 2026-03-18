@@ -59,7 +59,7 @@ Hello! My name is Nick, and I am a computer engineer with a Bachelor of Science 
 <table align="center">
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://github.com/NAL1618/Pipeline-Defect-Detection">
+      <a href="https://github.com/NAL1618/pipeline-classifier-gui">
         <img src="media/pipeline_ml_cover.png" alt="Pipeline Defect Detection GUI + CNN" width="250"><br/>
         <sub><b>Pipeline Defect Detection GUI + CNN</b></sub>
       </a>
@@ -67,7 +67,7 @@ Hello! My name is Nick, and I am a computer engineer with a Bachelor of Science 
       <sub>Python app that ingests .csv/.mat, renders live 2-D/3-D views, and runs CNN-based defect classification in real time.</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://github.com/NAL1618/Bristlemouth-Optics-Integration">
+      <a href="https://github.com/NAL1618/bm_protocol_develop">
         <img src="media/bristlemouth_cover.png" alt="Bristlemouth ↔ Optical Interrogator Integration" width="250"><br/>
         <sub><b>Bristlemouth ↔ Optical Interrogator Integration</b></sub>
       </a>
@@ -75,7 +75,7 @@ Hello! My name is Nick, and I am a computer engineer with a Bachelor of Science 
       <sub>Robust SPI/UART link between custom optics and dev kit; reliable bi-directional transfer for field deployment.</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://github.com/NAL1618/AI-Poker-Coach">
+      <a href="https://github.com/NAL1618/Portable-Real-Time-Poker-Assistant">
         <img src="media/poker_ai_cover.png" alt="AI Poker Coach" width="250"><br/>
         <sub><b>AI Poker Coach</b></sub>
       </a>
@@ -85,7 +85,7 @@ Hello! My name is Nick, and I am a computer engineer with a Bachelor of Science 
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://github.com/NAL1618/Search-Engine">
+      <a href="https://github.com/NAL1618/SearchEngine">
         <img src="media/search_engine_cover.png" alt="Python Search Engine with AI Response Component" width="250"><br/>
         <sub><b>Python Search Engine + AI Response</b></sub>
       </a>
