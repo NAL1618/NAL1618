@@ -65,9 +65,9 @@ I build production-minded systems that connect **hardware** to **operator-ready 
     <sub><b>AI Poker Coach</b> — Team project: MLP trained on hand histories; integrates with CV + MCU subsystems for decision support during gameplay.</sub>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/NAL1618/KMP-Casino-App">
-    <img src="media/kmp_casino_cover.png" alt="Kotlin Multiplatform Casino App" width="360"><br/>
-    <sub><b>Kotlin Multiplatform Casino App</b> — Shared backend; Android (Compose) + iOS (Swift/SwiftUI); packaged as XCFramework and deployed to both platforms.</sub>
+  <a href="https://github.com/NAL1618/Search-Engine">
+    <img src="media/search_engine_cover.png" alt="Python Search Engine with AI Response Component" width="360"><br/>
+    <sub><b>Python Search Engine + AI Response</b> — Search engine built on a Wikipedia-based document database with ranking, retrieval, and an AI response layer, served through a Flask front end.</sub>
   </a>
 </p>
 
@@ -75,6 +75,11 @@ I build production-minded systems that connect **hardware** to **operator-ready 
   <a href="https://github.com/NAL1618/VHDL-Pipelined-CPU">
     <img src="media/vhdl_cpu_cover.png" alt="Custom Pipelined CPU in VHDL" width="360"><br/>
     <sub><b>Custom Pipelined CPU (VHDL)</b> — Multi-cycle design with six-state FSM; ALU, register file, memory, and branch/memory ops.</sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/NAL1618/Head-Massager-Project">
+    <img src="media/head_massager_cover.png" alt="Arduino Head Massager Project" width="360"><br/>
+    <sub><b>Smart Head Massager</b> — Hardware/software project combining Arduino control, CAD-designed mechanical components, and a Swift-based interface to coordinate the system.</sub>
   </a>
 </p>
 
