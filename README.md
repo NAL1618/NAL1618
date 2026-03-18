@@ -31,7 +31,7 @@ Hello! My name is Nick, and I am a computer engineer with a Bachelor of Science 
 
 ### Tech I Use
 
-<p align="center">
+<p align="left">
   <img alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="C++" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img alt="C" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
