@@ -4,7 +4,7 @@
 
 ## Contact & Resume
 
-<p align="center">
+<p align="left">
   <a href="mailto:nicklavine@icloud.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
